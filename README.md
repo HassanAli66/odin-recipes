@@ -1,2 +1,2 @@
 # odin-recipes
-mini project to learn web development
+mini project to learn the basics of web development
